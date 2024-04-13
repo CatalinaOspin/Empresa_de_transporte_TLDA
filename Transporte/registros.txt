@@ -1,0 +1,4 @@
+placa: 123, descripcion: asdf, nombre: dxfcvg, ruta: fcgvhb, marca: dfgvh, modelo: dfgv
+placa: 123, descripcion: qwer, nombre: ert, ruta: rty, marca: rty, modelo: tgyh
+placa: 123, descripcion: qwer, nombre: ert, ruta: rty, marca: rty, modelo: tgyh
+placa: 123, descripcion: asdf, nombre: dxfcgvh, ruta: vhbjn, marca: bjnk, modelo: bjnklm
